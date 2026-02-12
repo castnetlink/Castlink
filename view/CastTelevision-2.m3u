@@ -54,7 +54,7 @@ https://accuweather-xumo.amagi.tv/playlist.m3u8?resolve=internal&resolve=interna
 #EXTINF:-1 tvg-id="OANPlus.us@SD" tvg-logo="https://github.com/castnetlink/Castlink/blob/main/img/OA-Plus.png?raw=true" group-title="TV",OANPlus
 https://oan-plus-tcl.amagi.tv/playlist.m3u8?resolve=internal&resolve=internal
 
-#EXTINF:-1 tvg-id="BBCEarth.uk@US" tvg-logo="https://raw.githubusercontent.com/castnetlink/Castlink/1912a974b4317d6c378dc82218dc6aa84b1aa53f/img/BBcer.svg" group-title="TV",BBC Earth
+#EXTINF:-1 tvg-id="BBCEarth.uk@US" tvg-logo="https://github.com/castnetlink/Castlink/blob/main/img/bbvd.png?raw=true" group-title="TV",BBC Earth
 https://amg00793-amg00793c6-firetv-us-4067.playouts.now.amagi.tv/playlist.m3u8?resolve=internal&resolve=internal
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="Sports",T2 Tennis Channel
@@ -108,7 +108,7 @@ https://a-cdn.klowdtv.com/live1/awe_720p/playlist.m3u8?resolve=internal&resolve=
 #EXTINF:-1 tvg-id="News12NewYork.us@SD" tvg-name="News12NewYork.us@SD" tvg-logo="https://i.imgur.com/Ez7qAZP.png" group-title="Live",News 12 New York
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fff49cfb5cd4f0007c2b0dc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5103-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c438c5e4-4d4e-4037-8b44-c6782c44b796%20&resolve=internal&resolve=internal&resolve=internal
 
-#EXTINF:-1 tvg-id="Aspire.us@SD" tvg-name="Aspire.us@SD" tvg-logo="https://raw.githubusercontent.com/castnetlink/Castlink/ce798272bf22bf83f07be287dfd4285d7753ef68/img/aspirlogo.svg" group-title="Live",Aspire
+#EXTINF:-1 tvg-id="Aspire.us@SD" tvg-name="Aspire.us@SD" tvg-logo="https://github.com/castnetlink/Castlink/blob/main/img/asg.png?raw=true" group-title="Live",Aspire
 https://fl31.moveonjoy.com/Aspire/index.m3u8?resolve=internal&resolve=internal
 
 #EXTINF:-1 tvg-id="Comet.us@SD" tvg-name="Comet.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/512px-Comet_logo.svg.png" group-title="Live",Comet
@@ -218,3 +218,4 @@ https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1
 
 #EXTINF:-1 tvg-id="CineSony.us@SD" tvg-name="CineSony.us@SD" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Spanish",Cine Sony
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8?resolve=internal&resolve=internal&resolve=internal
+
