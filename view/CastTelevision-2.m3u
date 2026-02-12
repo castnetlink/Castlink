@@ -7,6 +7,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo
 https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-a/playlist.m3u8?resolve=internal
 #EXTINF:-1 tvg-id="HTV2HoustonTelevision.us" tvg-logo="https://i.imgur.com/zvj1boM.jpg" group-title="Live",HTV 2 Houston Television
 https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-b/playlist.m3u8?resolve=internal
+#EXTINF:-1 tvg-id="tlc.us" tvg-name="tlc.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tlc-us.png?raw=true" group-title="Live",TLC
+https://fl2.moveonjoy.com/TLC/index.m3u8
 #EXTINF:-1 tvg-id="CSPAN.us2" tvg-name="C-SPAN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10161_dark_360w_270h.png" group-title="TV",C-SPAN
 http://mytvstream.net:8080/live/30550113/30550113/136589.m3u8
 #EXTINF:-1 tvg-id="Cartoon.Network.HD.us2" tvg-name="Cartoon Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png" group-title="TV",Cartoon Network
