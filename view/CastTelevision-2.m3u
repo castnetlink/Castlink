@@ -13,7 +13,7 @@ https://fl2.moveonjoy.com/TLC/index.m3u8
 http://mytvstream.net:8080/live/30550113/30550113/136589.m3u8
 #EXTINF:-1 tvg-id="Cartoon.Network.HD.us2" tvg-name="Cartoon Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png" group-title="TV",Cartoon Network
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="BounceXL.us@SD" tvg-logo="https://archive.org/services/img/bounce-xl",Bounce XL
+#EXTINF:-1 tvg-id="BounceXL.us@SD" tvg-logo="https://github.com/castnetlink/Castlink/blob/main/img/BXL.png?raw=true",Bounce XL
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-bouncexl-tablo/playlist.m3u8?resolve=internal
 #EXTINF:-1 tvg-id="Comedy.Central.HD.us2" tvg-name="Comedy Central" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" group-title="TV",Comedy Central
 http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
