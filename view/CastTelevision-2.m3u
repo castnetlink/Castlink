@@ -1,26 +1,26 @@
 #EXTM3U
 
-#EXTINF:-1  tvg-id="MGM+.HD.us2" tvg-logo="https://static.wikia.nocookie.net/mako-movies/images/d/d5/MGM_Holdings_logo.png/revision/latest/thumbnail/width/360/height/450?cb=20190126193754" group-title="USA Channels",MGM+
+#EXTINF:-1  tvg-id="MGM+.HD.us2" tvg-logo="https://static.wikia.nocookie.net/mako-movies/images/d/d5/MGM_Holdings_logo.png/revision/latest/thumbnail/width/360/height/450?cb=20190126193754" group-title="Movies",MGM+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={34bbe1d5cad94e81a2f2eb3275611f85:7e6a42fbe78e7ff8c20cb4eeb475ed17}
 https://epix.live.epix.services/out/v1/9e8d7f463c10401da4c78387a627e184/index.mpd
 
-#EXTINF:-1  tvg-id="MGM+.Drive-In.us2" tvg-logo="https://i.imgur.com/3fsnLQn.png" group-title="USA Channels",MGM+ Drive In
+#EXTINF:-1  tvg-id="MGM+.Drive-In.us2" tvg-logo="https://i.imgur.com/3fsnLQn.png" group-title="Movies",MGM+ Drive In
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2aa5443eab3841fca0804ed7df621e21:f6337da72d318e72e77742c7f8d2e698
 https://epix-drivein.live.epix.services/out/v1/bef1dd342f69416e9fdd844ece496dc0/index.mpd
 
-#EXTINF:-1  tvg-id="MGM+.Hits.HD.us2" tvg-logo="https://i.imgur.com/QKtbFDn.png" group-title="USA Channels",MGM+ Hits
+#EXTINF:-1  tvg-id="MGM+.Hits.HD.us2" tvg-logo="https://i.imgur.com/QKtbFDn.png" group-title="Movies",MGM+ Hits
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2e177abdd25b476dbb474fa7c2ee76b3:dc43cb2d4bd48774ef9620fda1158060
 https://epix2.live.epix.services/out/v1/08bcf975c3ef4013adb31929aef1fb82/index.mpd
 
-#EXTINF:-1  tvg-id="MGM+.Marquee.HD.us2" tvg-logo="https://i.imgur.com/9TEprOp.png" group-title="USA Channels",MGM+ Marquee
+#EXTINF:-1  tvg-id="MGM+.Marquee.HD.us2" tvg-logo="https://i.imgur.com/9TEprOp.png" group-title="Movies",MGM+ Marquee
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2f2032b4cae944a0adf5ce111a2ff693:2b4a2855b0abde035714985be6db4bd0
 https://epix-hits.live.epix.services/out/v1/a87dee961e4249afae86749c59202b9e/index.mpd
 
-#EXTINF:-1 tvg-id="Canal.Sony.(México).mx" tvg-logo="https://i.imgur.com/lyvKcFK.png" group-title="Extras",Sony Channel
+#EXTINF:-1 tvg-id="Canal.Sony.(México).mx" tvg-logo="https://i.imgur.com/lyvKcFK.png" group-title="Espanol",Sony Channel
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=47b8d1118047c47ff9d794fca6c9997a:97af829b2dd037fb85550b85b0757685
@@ -86,9 +86,6 @@ https://amg00793-amg00793c6-firetv-us-4067.playouts.now.amagi.tv/playlist.m3u8?r
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="Sports",T2 Tennis Channel
 https://ttc-tennischannelus-firetv.amagi.tv/playlist.m3u8?resolve=internal&resolve=internal
 
-#EXTINF:-1 tvg-id="USANetwork.us@East" tvg-logo="https://github.com/castnetlink/Castlink/blob/main/img/USL.png?raw=true" group-title="TV",USA Network East
-https://k1.thetvapp.to/hls/USANetworkEast/tracks-v1a1/mono.m3u8?token=ipvpTSeU8jjji-xoOIa_lA&expires=1770875661&user_id=ODkuMTg3LjE4Mi4xNw==&resolve=internal&resolve=internal
-
 #EXTINF:-1 tvg-id="KHOUDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png" group-title="Live",KHOU-DT1
 https://livevideo01.khou.com/hls/live/2014966/newscasts/live.m3u8?resolve=internal
 
@@ -104,7 +101,7 @@ https://fl41.moveonjoy.com/TX_Houston_NBC/index.m3u8?resolve=internal&resolve=in
 #EXTINF:-1 tvg-id="espn.us" tvg-name="espn.us" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/500px-ESPN_wordmark.svg.png" group-title="Sports",ESPN
 http://1tv41.icu:8080/live/43761449506/smallwood/14197.m3u8?resolve=internal&resolve=internal
 
-#EXTINF:-1 tvg-id="ESPNDeportes.us@SD" tvg-name="ESPNDeportes.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/512px-ESPN_Deportes.svg.png" group-title="Spanish",ESPN Deportes
+#EXTINF:-1 tvg-id="ESPNDeportes.us@SD" tvg-name="ESPNDeportes.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/512px-ESPN_Deportes.svg.png" group-title="Espanol",ESPN Deportes
 https://e3.thetvapp.to/hls/espn-deportes/index.m3u8?resolve=internal&resolve=internal&resolve=internal
 
 #EXTINF:-1 tvg-id="ACCDigitalNetwork.us@SD" tvg-name="ACCDigitalNetwork.us@SD" tvg-logo="https://i.imgur.com/V6Kaqha.png" group-title="Sports",ACCDN
@@ -113,7 +110,7 @@ https://raycom-accdn-firetv.amagi.tv/playlist.m3u8?resolve=internal
 #EXTINF:-1 tvg-id="ACCNetwork.us@SD" tvg-name="ACCNetwork.us@SD" tvg-logo="https://i.imgur.com/TpCkbkT.png" group-title="Sports",ACCN (720p)
 https://fl31.moveonjoy.com/ACC_NETWORK/index.m3u8?resolve=internal&resolve=internal
 
-#EXTINF:-1 tvg-id="beINSportsUSA.us@SD" tvg-name="beINSportsUSA.us@SD" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="Spanish",beIN Sports
+#EXTINF:-1 tvg-id="beINSportsUSA.us@SD" tvg-name="beINSportsUSA.us@SD" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="Espanol",beIN Sports
 https://bein-esp-klowdtv.amagi.tv/playlist.m3u8?resolve=internal&resolve=internal&resolve=internal
 
 #EXTINF:-1 tvg-id="AWE.us@SD" tvg-name="AWE.us@SD" tvg-logo="https://i.postimg.cc/85g5z1dJ/awe.png" group-title="Live",AWE
@@ -152,10 +149,10 @@ https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_356
 #EXTINF:-1 tvg-id="msnbc.us" tvg-name="msnbc.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/MS_NOW_logo.svg/500px-MS_NOW_logo.svg.png" group-title="Live",MSNBC
 http://41.205.93.154/MSNBC/index.m3u8?resolve=internal&resolve=internal
 
-#EXTINF:-1 tvg-id="Univision.us@East" tvg-name="Univision.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/512px-Logo_Univision_2019.svg.png" group-title="Spanish",Univision West
+#EXTINF:-1 tvg-id="Univision.us@East" tvg-name="Univision.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/512px-Logo_Univision_2019.svg.png" group-title="Espanol",Univision West
 https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv-audio_eng=128000-video=1000000.m3u8?resolve=internal&resolve=internal
 
-#EXTINF:-1 tvg-id="FoxDeportes.us@SD" tvg-name="FoxDeportes.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/512px-FOX_Deportes_logo.png" group-title="Spanish",FoxDeportes
+#EXTINF:-1 tvg-id="FoxDeportes.us@SD" tvg-name="FoxDeportes.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/512px-FOX_Deportes_logo.png" group-title="Espanol",FoxDeportes
 https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8?resolve=internal&resolve=internal&resolve=internal
 
 #EXTINF:-1 tvg-id="CineSony.us@SD" tvg-name="CineSony.us@SD" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Spanish",Cine Sony
