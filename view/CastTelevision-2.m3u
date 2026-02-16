@@ -161,5 +161,5 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv-aud
 #EXTINF:-1 tvg-id="FoxDeportes.us@SD" tvg-name="FoxDeportes.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/512px-FOX_Deportes_logo.png" group-title="Espanol",FoxDeportes
 https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8?resolve=internal&resolve=internal&resolve=internal
 
-#EXTINF:-1 tvg-id="CineSony.us@SD" tvg-name="CineSony.us@SD" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Spanish",Cine Sony
+#EXTINF:-1 tvg-id="CineSony.us@SD" tvg-name="CineSony.us@SD" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Espanol",Cine Sony
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8?resolve=internal&resolve=internal&resolve=internal
