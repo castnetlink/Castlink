@@ -141,6 +141,16 @@ https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_356
 #EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1920px-CNN.svg.png?20240602125357" group-title="Live",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8?resolve=internal&resolve=internal&resolve=internal
 
+#EXTINF:-1  tvg-id="MGM+.HD.us2" tvg-logo="https://static.wikia.nocookie.net/mako-movies/images/d/d5/MGM_Holdings_logo.png/revision/latest/thumbnail/width/360/height/450?cb=20190126193754" group-title="USA Channels",MGM+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={34bbe1d5cad94e81a2f2eb3275611f85:7e6a42fbe78e7ff8c20cb4eeb475ed17}
+https://epix.live.epix.services/out/v1/9e8d7f463c10401da4c78387a627e184/index.mpd
+
+#EXTINF:-1  tvg-id="MGM+.Drive-In.us2" tvg-logo="https://i.imgur.com/3fsnLQn.png" group-title="USA Channels",MGM+ Drive In
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2aa5443eab3841fca0804ed7df621e21:f6337da72d318e72e77742c7f8d2e698
+https://epix-drivein.live.epix.services/out/v1/bef1dd342f69416e9fdd844ece496dc0/index.mpd
+
 #EXTINF:-1 tvg-id="AdultSwim.us" tvg-name="Adult Swim" tvg-logo="https://github.com/castnetlink/Castlink/blob/main/img/aslj.png?raw=true" group-title="TV",Adult Swim
 https://turnerlive.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_1_5128000.m3u8?resolve=internal&resolve=internal&resolve=internal
 
